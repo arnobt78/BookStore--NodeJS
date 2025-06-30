@@ -1,4 +1,4 @@
-# BookStore - NodeJS
+# BookStore - Node.js
 
 BookStore is a full-stack sample web application designed to demonstrate CRUD operations for a book management system. The app allows users to add, view, filter, and remove books from a MongoDB database with a clean, responsive AngularJS frontend and a robust Node.js/Express backend.
 
